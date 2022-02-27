@@ -1,0 +1,21 @@
+input 
+{
+    background-color: lightblue;
+    font-size: large;
+    text-align: center;
+    height: 30px;
+    width: 30px;
+    margin: 5px;
+    padding: 0%;
+}
+
+h1
+{
+    color: white;
+}
+
+body
+{
+    background-color: rgb(27, 30, 31);
+    text-align: center;
+}
